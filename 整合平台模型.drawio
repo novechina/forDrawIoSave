@@ -1,1 +1,129 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T05:56:44.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="N9aLu-sLbfnzIW-O3Eo9" version="20.0.3" type="github"><diagram name="Page-1" id="a7904f86-f2b4-8e86-fa97-74104820619b">7Z1fc5s4EMA/jR/TAUn88WOcNulL5zrTm7veIzayTYuRTyGJc5/+hJGIJccEe5ABe19akNawrDbSb6UVjPDdavPAo/XyG4tpOkJOvBnhzyOEXOKE4r+i5LUsCYgsWPAklkJvBT+S/6gsdGTpUxLTR00wZyzNk7VeOGNZRme5VhZxzl50sTlL9buuowXdK/gxi9L90r+TOF/KUtdx3iq+0mSxlLcOPVkxjWa/F5w9ZfJ+GctoWbOK1GWk6OMyitnLThH+MsJ3nLG8PFpt7mhamFVZrPzd/YHaSmVOs7zJDxAJxmQa+k40neEZim+wUix/VXagsTCLPGU8X7IFy6L0y1vpZPustLikI86W+SoVh644TKMpTSeVOe5Yyrio2hoET2gW3xbtpJXcJ2kqLyTOpFeE4mzOsvw+WiVp4U5/UR5HWSSLpZQrzDeJ0mSRiZOUzoUFJvsGkTZ6ZE98Rg9YQblbxBc0PyCDcClUmGfnytLOD5StaM5fhQCnaZQnz7pXRdI5F5Wc/KmwSPS6I7BmSZY/7lz5e1EgBDaVP5ZXlH9lY6PBDXE/qBMXB+X91dnOg7wVbX2oqT/5bfoT3ST5z53jfwqRT97WV4SOPyvHESdlHfIu3A3dsG033HGG49paXvM5Sp/kXUbIT4vHX2se4P/7VPRvk5V4rkQY6VbUOuuN+HdrKacsv8nZuqwjO3U53eQ30rhF3UwYlHK9OqYzxsWzMilTOBNPk6ITVrcWRwv5/1bBqSr4Y/prO5bc/vm6pqpWWGJq/kKUrc2yJTdLTnrw0meKyrCoNHWeJzSN3e2PPitzu9WDcE0M6WLogBjWxXDdQ1p7JKIrQfZ17UQtT1fL64lavq6W3xO1Al2toCdqhbpaYU/UGutqjXuiVoEUWu/ivK+GMbA/U54ngp9v5di37cDNkZAJqXm6HW3n2zF2b+jURtivNH2mxVV1ENAJoaLo4mTGVslMHtcP/I85Z78rtn+HndWAJp6LbkZ1g6usJTpcIccrz1924gcls9wJHdzQsTAe47F99kJ18BUMGr78JvQV9CIIQEYQQEJcGwWY8phYDgOUMYENgQ2BDYENh8CGwDrHsA4hTVnHs8E66k7tso5Twzru6IImmoImrNObiSbi2mjsI8D2Chp73JvWVvoCOwI7AjsCOw6BHWFeEeYVW2TtKl+gJxOLgX3YDupge9gTi2ET/vJ7w184tN/adY0NbX1G1g6BtYG1gbWBtYG1L5W1u1bM7Pbe6fe6UczoaF30vhoQnXwQnTReCkCOjeiEoI6jk0ED67gJsPYj64E4RlQsI5VDWQ978mPPcLS2sx7GQNNA00DTQNPDoWlgnVrWIUbmnIs6TXvArbJO99ByeIPPaTijyLR+JxfpBc54AdFcC3v1W7lMeRL4dnFGGRNwBnCmTZyBIeeoIQc3XfwbWxlxsI3ouvmGzkEv/VX72AcxHHma23meFi1/LI8sR9fYs++JtSmfV+CKTtuuePqs3hlWoa+8tduf1ju5tatRElATUBNmzmDmbAAzZ7AODTmfFsM+4nea80nOkPN5wfyFmvBX2Bv+UpPVZ1xD/+Q4vt7ioYdVwXfKE/FUlDf6YwQ/aGMCABuvCgvd+pcKmPK+a3kCwLOyDfA6EpOH5Ihm3kYQ1M9EmfIeseyIypgQrUK0CtEqRKtDiFYh+joq+vLVYlpHeR6tok730FL7Fo0TiQY3IJr2FzRaSfVAWEvd+Dg1BAWWiQYD0QDRANEA0QyHaGD+HfaBwT6wDpnZN+ZdXNztPjBiY3rwWl5/q7LQ6nG6P28uIGfIBrvyxu5PehA5w1dFgrrWvvzG7s9apNIXYlGIRSEWhVgUYtHLi0UhsjoqssJBt5GVlQ+LXE0umNeEv/rztm2lL/AX8BfwF/DXEPgLeOIonvAb55bb+XjHGfYU107nDPp7DqjJh8pQf77ngOBbYMAT18MTMBTVDkWBsWugilg/HIpcG0ORWuSAzgk6pzY7J+gFjuoFGk9wWXnHjVr8gk4AOgEgFOibjO1kTdOaLBEKvFQYOqfr6ZxgOvYCpmNhORxSsyE1u0OGGRtf60ahxQQCccpZ0XhV3QOP1stvLKaFxP8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-29T08:05:40.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="bOCxOwUqThdbBtdauMuJ" version="20.0.3" type="github">
+  <diagram name="Page-1" id="a7904f86-f2b4-8e86-fa97-74104820619b">
+    <mxGraphModel dx="3870" dy="1310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="cJ2p9qlHEQCbhiZmeX7b-1" target="cJ2p9qlHEQCbhiZmeX7b-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cJ2p9qlHEQCbhiZmeX7b-1" target="cJ2p9qlHEQCbhiZmeX7b-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cJ2p9qlHEQCbhiZmeX7b-1" target="cJ2p9qlHEQCbhiZmeX7b-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cJ2p9qlHEQCbhiZmeX7b-1" target="cJ2p9qlHEQCbhiZmeX7b-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="cJ2p9qlHEQCbhiZmeX7b-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;个人档案信息&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;organization_id 机构id&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;patient_id 患者id&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;id_number 身份证号&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1110" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cJ2p9qlHEQCbhiZmeX7b-2" target="cJ2p9qlHEQCbhiZmeX7b-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="1290" />
+              <mxPoint x="70" y="1290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cJ2p9qlHEQCbhiZmeX7b-2" target="cJ2p9qlHEQCbhiZmeX7b-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="1340" />
+              <mxPoint x="290" y="1340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cJ2p9qlHEQCbhiZmeX7b-2" target="cJ2p9qlHEQCbhiZmeX7b-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="cJ2p9qlHEQCbhiZmeX7b-2" target="cJ2p9qlHEQCbhiZmeX7b-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cJ2p9qlHEQCbhiZmeX7b-2" target="cJ2p9qlHEQCbhiZmeX7b-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-2" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;就诊记录&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;organization_id 机构id&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;patient_id 患者id&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;id_number 身份证号&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;name_of_doctor 医生姓名&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;department 科室&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;visit_no 就诊号&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1120" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;检验结果&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;visit_no 就诊号&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1500" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;诊断结果&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;visit_no 就诊号&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1500" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;检查结果&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;visit_no 就诊号&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1500" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-7" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;西药医嘱&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;visit_no 就诊号&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="1500" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-8" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;中药医嘱&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;visit_no 就诊号&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1500" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cJ2p9qlHEQCbhiZmeX7b-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1330" y="985" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-16" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;体检&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;organization_id 机构id&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;patient_id 患者id&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;id_number 身份证号&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="550" y="920" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-18" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;随访&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;organization_id 机构id&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;patient_id 患者id&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;id_number 身份证号&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="220" y="930" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-20" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;中医体质辨识&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;organization_id 机构id&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;patient_id 患者id&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;id_number 身份证号&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1090" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-24" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;过敏史-pt_allergy&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;pid 患者编号&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;source_id 过敏源编号&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;source_naem 过敏原名称&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="170" y="500" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-25" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;签约管理-pt_contract&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;pid 患者编号&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;package1&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;package2&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;---多个服务包&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;team_id 团队名&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;dr_id 医生名&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="390" y="370" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-27" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;既往病史-pt_disease&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;pid 患者编号&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;disease_cd 疾病种类代码&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;disease 疾病名称&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="170" y="620" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-28" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;医嘱索引-pt_doctor_order&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;id 医嘱索引id&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;pid 患者编号&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;type 医嘱类型&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;commen 医嘱备注&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;title 医嘱标题&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1730" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-30" value="&lt;p style=&quot;text-decoration-line: underline; margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;实验室检查记录-&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;pt_doctor_order_lab_item&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;id 医嘱索引id&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;pid 患者编号&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;key_order 检查项目&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;serial_no 申请单号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1980" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-31" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;家族史-pt_family_history&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;pid 患者编号&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;diesase_name 疾病名称&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;relation 亲属关系&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="170" y="370" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-32" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;家庭档案表-pt_family_info&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;family_id 家庭档案&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;holeder_id_card 户主id&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;地址信息等---&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="610" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-33" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;成员关系表-pt_family_member&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;family_id 家庭档案&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;fm_id_card 成员id&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;fm_id_card 成员身份证号&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="750" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-34" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;住院治疗情况&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="230" y="180" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cJ2p9qlHEQCbhiZmeX7b-35" target="cJ2p9qlHEQCbhiZmeX7b-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-35" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;实验室检查项目-pt_lab_exam_head&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;id 检查id&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;pid 患者id&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;exam_item 检查项&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1780" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cJ2p9qlHEQCbhiZmeX7b-36" target="cJ2p9qlHEQCbhiZmeX7b-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-36" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;实验室检查结果-pt_lab_exam_result&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;id 检查id&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;pid 患者id&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;result 检查结果&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;abnormal 异常值&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1900" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cJ2p9qlHEQCbhiZmeX7b-42" value="Object" style="html=1;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="960" width="300" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
