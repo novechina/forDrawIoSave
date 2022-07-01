@@ -1,1 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T09:46:25.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" version="20.0.4" etag="8gCTxMLz8LL0lajEWS3M" type="github"><diagram id="ft6V09C53g26Gn0ZU3Pr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-01T10:01:44.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="u3-wntQiGeFTBzIps5nZ" version="20.0.4" type="github">
+  <diagram id="ft6V09C53g26Gn0ZU3Pr" name="Page-1">
+    <mxGraphModel dx="1422" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qBo6aNIfDWcMSihWKUBq-1" value="档案模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="114" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBo6aNIfDWcMSihWKUBq-2" value="签约模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="469" y="114" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBo6aNIfDWcMSihWKUBq-3" value="字典模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="469" y="323" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBo6aNIfDWcMSihWKUBq-4" value="就诊模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="323" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBo6aNIfDWcMSihWKUBq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="qBo6aNIfDWcMSihWKUBq-5" target="qBo6aNIfDWcMSihWKUBq-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="138" y="51" />
+              <mxPoint x="138" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qBo6aNIfDWcMSihWKUBq-5" value="个人基本信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="23" y="23" width="105" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="qBo6aNIfDWcMSihWKUBq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qBo6aNIfDWcMSihWKUBq-6" target="qBo6aNIfDWcMSihWKUBq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBo6aNIfDWcMSihWKUBq-6" value="家庭档案" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="23" width="105" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="qBo6aNIfDWcMSihWKUBq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qBo6aNIfDWcMSihWKUBq-7" target="qBo6aNIfDWcMSihWKUBq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBo6aNIfDWcMSihWKUBq-7" value="各种病史" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="23" y="86" width="105" height="28" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
